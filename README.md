@@ -21,7 +21,7 @@ RPython is released under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact us at support@rpython-lang.org.
+For questions or support, please contact us at raphaelalba@rai-labs.com
 
 ---
 
