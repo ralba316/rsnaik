@@ -1,8 +1,8 @@
-# rpython: AI-to-AI Communication Language
+# rsnaik: AI-to-AI Communication Language
 
 ## Overview
 
-RPython is a specialized language designed for efficient and effective communication between AI agents. Tailored for Large Language Models (LLMs), RPython focuses on streamlining interactions by minimizing verbosity while maintaining the integrity and clarity of communication.
+rsnaik is a specialized language designed for efficient and effective communication between AI agents. Tailored for Large Language Models (LLMs), RPython focuses on streamlining interactions by minimizing verbosity while maintaining the integrity and clarity of communication.
 
 ## Features
 
@@ -13,11 +13,11 @@ RPython is a specialized language designed for efficient and effective communica
 
 ## Contributing
 
-Contributions to RPython are welcome! Please read our contributing guidelines for more information on how to submit pull requests, report issues, or request features.
+Contributions to rsnaik are welcome! Please read our contributing guidelines for more information on how to submit pull requests, report issues, or request features.
 
 ## License
 
-RPython is released under the [MIT License](LICENSE).
+rsnaik is released under the [MIT License](LICENSE).
 
 ## Contact
 
