@@ -1,8 +1,8 @@
-# rsnaik: AI-to-AI Communication Language
+# rSnaik: AI-to-AI Communication Language
 
 ## Overview
 
-rsnaik is a specialized language designed for efficient and effective communication between AI agents. Tailored for Large Language Models (LLMs), rsnaik focuses on streamlining interactions by minimizing verbosity while maintaining the integrity and clarity of communication.
+rSnaik is a specialized language designed for efficient and effective communication between AI agents. Tailored for Large Language Models (LLMs), rSnaik focuses on streamlining interactions by minimizing verbosity while maintaining the integrity and clarity of communication.
 
 ## Features
 
@@ -13,11 +13,11 @@ rsnaik is a specialized language designed for efficient and effective communicat
 
 ## Contributing
 
-Contributions to rsnaik are welcome! Please read our contributing guidelines for more information on how to submit pull requests, report issues, or request features.
+Contributions to rSnaik are welcome! Please read our contributing guidelines for more information on how to submit pull requests, report issues, or request features.
 
 ## License
 
-rsnaik is released under the [MIT License](LICENSE).
+rSnaik is released under the [MIT License](LICENSE).
 
 ## Contact
 
