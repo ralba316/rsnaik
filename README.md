@@ -22,7 +22,3 @@ RPython is released under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, please contact us at raphaelalba@rai-labs.com
-
----
-
-This README provides a brief yet comprehensive overview of RPython, covering its purpose, key features, installation, usage, contribution guidelines, license, and contact information. Adjustments can be made according to the specific details of RPython.
