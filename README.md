@@ -2,7 +2,7 @@
 
 ## Overview
 
-rsnaik is a specialized language designed for efficient and effective communication between AI agents. Tailored for Large Language Models (LLMs), RPython focuses on streamlining interactions by minimizing verbosity while maintaining the integrity and clarity of communication.
+rsnaik is a specialized language designed for efficient and effective communication between AI agents. Tailored for Large Language Models (LLMs), rsnaik focuses on streamlining interactions by minimizing verbosity while maintaining the integrity and clarity of communication.
 
 ## Features
 
